@@ -32,6 +32,6 @@ Webアプリケーションとして構築されており、ユーザはポジ�
 
 HappyDiaryではネガティブなことを記録することは推奨されていないため、以下のNGワードが設定されている。
 
-<img src="https://github.com/user-attachments/assets/14a023f7-1803-4e12-b172-0bb1ff43eb13" width="500" height="600">
+<img src="https://github.com/user-attachments/assets/14a023f7-1803-4e12-b172-0bb1ff43eb13" width="600" height="600">
 
 これらの単語が日記の内容に入力されて保存された場合、アラートを表示して保存させないようになっている。
