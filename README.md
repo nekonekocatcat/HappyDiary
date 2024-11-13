@@ -24,6 +24,8 @@ Webアプリケーションとして構築されており、ユーザはポジ�
 
 ## 画面遷移
 
+<img src="[画像のURL](https://github.com/user-attachments/assets/d7499138-2ee7-41f3-a708-4fff99d5947d)" width="300">
+
 ![image](https://github.com/user-attachments/assets/d7499138-2ee7-41f3-a708-4fff99d5947d)
 
 新規登録からログイン、そして出来事を記録することができます。
