@@ -3,6 +3,9 @@
 HappyDiaryは、日常の中でのポジティブな出来事を記録することができるシンプルな日記アプリです。
 Webアプリケーションとして構築されており、ユーザはポジティブな出来事を管理することができます。
 
+<img src="[https://github.com/user-attachments/assets/d7499138-2ee7-41f3-a708-4fff99d5947d](https://github.com/user-attachments/assets/d1e1cd75-b402-4c13-b5af-22d4fd6cb434)" width="500" height="600">
+
+
 ## 特徴
 
 - **日記の記録**: ポジティブな出来事を記録できる。ネガティブな出来事は推奨されていないので、NGワードが設定されています。
